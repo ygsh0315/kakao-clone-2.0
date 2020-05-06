@@ -41,6 +41,14 @@
   opacity: 0.6;
 }
 
+.friends__friend {
+  margin-bottom: 10px;
+}
+
+.favorites {
+  border-bottom: 1px solid #f7f7f7;
+}
+
 .friend__content .friend__bottom-text {
   font-size: 14px;
 }
